@@ -1,0 +1,33 @@
+2020-11-24 21:20:06,562 [   1131]   WARN - llij.ide.plugins.PluginManager - Problems found loading plugins:
+  The Java EE: Server Faces (JSF) (id=com.intellij.jsf, path=/opt/intellij-idea-ultimate-edition/plugins/JSF) plugin Non-optional dependency plugin com.intellij.javaee.app.servers.integration is disabled 
+2020-11-24 21:20:10,613 [   5182]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..ct/udemy/food 
+2020-11-24 21:20:10,616 [   5185]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2020-11-24 21:20:11,614 [   6183]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2020-11-24 21:20:11,616 [   6185]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..ct/udemy/food 
+2020-11-24 21:20:11,647 [   6216]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2020-11-24 21:20:12,095 [   6664]   WARN - ctRoots.impl.UnknownSdkTracker - SDK with name 11 already exists: clash=11: java version "11.0.8" (/usr/lib/jvm/java-11-openjdk), new=11: java version "11.0.8" (/usr/lib/jvm/java-11-openjdk) 
+2020-11-24 21:20:14,767 [   9336]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2020-11-24 21:20:14,768 [   9337]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;npm 
+2020-11-24 21:20:40,980 [  35549]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2020-11-24 21:20:41,069 [  35638]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2020-11-24 21:20:41,162 [  35731]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2020-11-24 21:20:41,235 [  35804]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 3 
+2020-11-24 21:20:42,775 [  37344]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..ct/udemy/food 
+2020-11-24 21:20:42,799 [  37368]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2020-11-24 21:20:55,317 [  49886]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2020-11-24 21:20:55,318 [  49887]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;expo 
+2020-11-24 21:21:28,314 [  82883]   WARN - com.intellij.util.xmlb.Binding - no accessors for org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2020-11-24 22:02:47,136 [2561705]   WARN - .AbstractProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.openapi.vcs.impl.CodeSmellDetectorImpl.findCodeSmells(CodeSmellDetectorImpl.java:137) 
